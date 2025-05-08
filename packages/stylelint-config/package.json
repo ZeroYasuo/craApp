@@ -1,5 +1,5 @@
 {
-  "name": "encode-fe-stylelint-config",
+  "name": "encode-fe-stylelint-config-test",
   "version": "0.0.8",
   "description": "印客学院 CSS规范",
   "main": "index.js",
@@ -30,5 +30,5 @@
   "bugs": {
     "url": "https://github.com/encode-studio-fe/fe-spec/issues"
   },
-  "gitHead": "57152f30286975036fe437ad41e76b2bce952a6d"
+  "gitHead": "58468b6ee757694a19a30486e8b775255669d129"
 }
