@@ -1,6 +1,6 @@
 {
   "name": "encode-fe-eslint-config-test",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "index.js",
   "description": "印客学院 JavaScript TypeScript Node 规范",
   "keywords": [
