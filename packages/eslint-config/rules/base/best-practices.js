@@ -7,7 +7,7 @@ module.exports = {
     'array-callback-return': ['error', { allowImplicit: true }],
 
     // 把 var 语句看作是在块级作用域范围之内，不能在块外使用
-    'block-scoped-var': 'error',
+    'block-scoped-var': 'warning',
 
     // 强制类的方法使用 this
     'class-methods-use-this': [
